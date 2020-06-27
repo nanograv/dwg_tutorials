@@ -1,5 +1,7 @@
 # dwg_tutorials
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nanograv/dwg_tutorials/master)
+
 ## Installing PTA software
 
 1. Install Miniconda
