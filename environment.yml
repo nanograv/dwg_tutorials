@@ -99,7 +99,7 @@ dependencies:
   - pytest-openfiles
   - pytest-remotedata
   - pytest-runner
-  - python
+  - python=3.7
   - python-dateutil
   - python_abi
   - pytz
