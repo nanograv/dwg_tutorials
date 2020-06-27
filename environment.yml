@@ -18,6 +18,8 @@ dependencies:
   - ephem
   - freetype
   - geos
+  - gcc_linux-64
+  - gfortran_linux-64
   - h5py
   - hdf5
   - healpy
