@@ -18,8 +18,6 @@ dependencies:
   - ephem
   - freetype
   - geos
-  - gcc_linux-64
-  - gfortran_linux-64
   - h5py
   - hdf5
   - healpy
@@ -47,7 +45,6 @@ dependencies:
   - libedit
   - libffi
   - libgfortran
-  - libgcc
   - liblapack
   - libpng
   - libsodium
@@ -101,7 +98,7 @@ dependencies:
   - pytest-openfiles
   - pytest-remotedata
   - pytest-runner
-  - python=3.7
+  - python
   - python-dateutil
   - python_abi
   - pytz
