@@ -45,6 +45,7 @@ dependencies:
   - libedit
   - libffi
   - libgfortran
+  - libgcc
   - liblapack
   - libpng
   - libsodium
