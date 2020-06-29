@@ -25,7 +25,7 @@
 	* To enter the environment: `conda activate test_env`
 	* Once inside, to install other packages: `conda install <package_name>`
 	* To exit the environment: `conda deactivate`
-	* To delete the environment: `conda remove --name pta_software --all`
+	* To delete the environment: `conda remove --name test_env --all`
 
 3. To install a new environment from a yaml file: `conda env create --file environment.yaml`
 
